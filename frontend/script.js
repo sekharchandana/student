@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/tasks';
+const API_URL = 'https://deploying-backend.onrender.com/data';
 
 // DOM Elements
 const taskForm = document.getElementById('taskForm');
